@@ -1,2 +1,2 @@
-# autotraidingtool
-AI based crypto auto trasing tool
+# AI AutoTraidingTool 
+AI cryptocurrency trading bot supporting bitget 
