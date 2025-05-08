@@ -2,6 +2,7 @@
 AI cryptocurrency trading bot supporting bitget 
 
 How to use
+
  install python 3.9
  python.exe -m pip install --upgrade pip
  pip install pandas
